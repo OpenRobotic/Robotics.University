@@ -4,3 +4,4 @@ sch: https://www.youtube.com/results?search_query=guide+to+stepper+motors
 - [How Stepper Motors Work - Electric motor](https://youtu.be/09Mpkjcr0bo)
 - [Stepper Motors and Arduino - The Ultimate Guide](https://youtu.be/7spK_BkMJys)
 - [Stepper Motors with Arduino - Controlling Bipolar & Unipolar stepper motors](https://youtu.be/0qwrnUeSpYQ)
+- [How does a Stepper Motor work?](https://youtu.be/eyqwLiowZiU)

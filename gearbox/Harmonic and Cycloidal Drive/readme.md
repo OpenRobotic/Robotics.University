@@ -1,0 +1,1 @@
+- [Harmonic vs Cycloidal Drive - Torque, Backlash and Wear Test](https://youtu.be/IXmCze1GsGU)
